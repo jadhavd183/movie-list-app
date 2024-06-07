@@ -8,10 +8,6 @@
 import Foundation
 import http_client
 
-// https://api.themoviedb.org/3/movie/latest
-// https://api.themoviedb.org/3/movie/popular?language=en-US&page=1
-//https://api.themoviedb.org/3/collection/collection_id?language=en-US
-
 enum MovieApiProvider: String {
     // add api endpoint
     case popular = "popular"
