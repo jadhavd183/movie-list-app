@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import http_client
 
 // https://api.themoviedb.org/3/movie/latest
 // https://api.themoviedb.org/3/movie/popular?language=en-US&page=1

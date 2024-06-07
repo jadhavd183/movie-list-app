@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import http_client
 
 class MovieService: MovieListType, MovieDetailsType {
     let httpClient: HttpClient

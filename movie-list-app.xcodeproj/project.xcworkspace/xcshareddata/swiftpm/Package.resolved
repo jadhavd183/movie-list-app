@@ -1,0 +1,15 @@
+{
+  "originHash" : "e17f96d4d21225d0bf5bd6abe806f167fc5da3a225e4b5bbe55c0c788459a8f9",
+  "pins" : [
+    {
+      "identity" : "http-client-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jadhavd183/http-client-package",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ba6b5137df378b75fc9868b4a80d7ebc3104b4be"
+      }
+    }
+  ],
+  "version" : 3
+}

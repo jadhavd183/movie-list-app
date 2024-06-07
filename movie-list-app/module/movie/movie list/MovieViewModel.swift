@@ -7,6 +7,8 @@
 
 import Foundation
 import Combine
+import http_client
+
 
 enum TabType: Int {
     case popular = 0

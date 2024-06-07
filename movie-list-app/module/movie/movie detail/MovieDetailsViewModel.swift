@@ -7,6 +7,7 @@
 
 import Foundation
 import Combine
+import http_client
 
 class MovieDetailsViewModel {
     
