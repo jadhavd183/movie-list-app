@@ -1,1 +1,1 @@
-An example using MVVM for an iOS App
+An example of using MVVM for an iOS app.
